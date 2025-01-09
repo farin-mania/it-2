@@ -10,3 +10,6 @@ print(f"Summen av {tall1} og {tall2} er {resultat}")
 multiplisert  = tall1 * tall2
 
 print(f"Produktet av {tall1} og {tall2} er {multiplisert}")
+
+kvotient = tall1 / tall2
+print(f"Kvotienten av dividenden {tall1} og divisoren {tall2} er {kvotient}")
