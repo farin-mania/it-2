@@ -6,3 +6,7 @@ resultat = tall1 + tall2
 
 print("Summen av", tall1, "og", tall2, "er", resultat)
 print(f"Summen av {tall1} og {tall2} er {resultat}")
+
+multiplisert  = tall1 * tall2
+
+print(f"Produktet av {tall1} og {tall2} er {multiplisert}")
