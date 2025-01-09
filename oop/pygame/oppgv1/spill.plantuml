@@ -1,0 +1,13 @@
+@startuml spill
+
+class SpillerClass {
+    attack()
+}
+
+class Spiller2 {
+    manaAttack()
+}
+
+SpillerClass --|> Spiller2 : arv654
+
+@enduml
